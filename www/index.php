@@ -70,6 +70,6 @@ if ($clientDBName == 'atsa-mm_portal')
             }(jQuery)
         );
     </script>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=atsa-mm&client_id=9beb2c53b184deb77e3fbf266f879ae3" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=atsa-mm&client_id=aa4eed7b5d1047e4fd397465dba1574f" type="text/javascript"></script>
 </body>
 </html>
