@@ -3,12 +3,9 @@
 // planing to check the database name and change the client name for title
 $title = $description = '';
 
-$title = 'Million Dollar March Mania Challenge presented by _____';
-$description = "Take a shot at becoming a millionaire during the men's college basketball tournament! Play free games to win cash prizes and more all the way through the Big Dance.";
+$title = '$1,000,000 March Mania Bracket Challenge presented by Atsa Rewards';
+$description = "Take a shot at becoming a millionaire during the men’s college basketball tournament. Play games online, make bracket picks and more - 100% free to participate!";
 
-if ($clientDBName == 'atsa-mm_portal')
-    $title = "Welcome to the 2022 Million Dollar March Mania Challenge.";
-    $description = "Take a shot at becoming a millionaire during the men's college basketball tournament! Play free games to win cash prizes and more all the way through the Big Dance.";
 ?>
 <!DOCTYPE html>
 <html lang="en" class="setTo100 themed-layout">
